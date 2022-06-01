@@ -1,6 +1,5 @@
 # Data-Manipulation
 
-
 Highlight :
 
 -Menunjukkan jumlah data, rata-rata, jumlah terkecil, jumlah
